@@ -1,1 +1,1 @@
-# Multidimensional-Cube-Analysis-with-SSAS
+# MSSAS Multidimensional Cube Analysis
